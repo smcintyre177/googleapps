@@ -1,0 +1,1 @@
+This script takes a Google Sheet, exports it to a CSV, and emails it as an attachment to a list of recipeients as an attachment. The CSV is stored locally in a drive folder, with the date in the name of the file. Only for Google Web App, only wirks with GMAIL.
